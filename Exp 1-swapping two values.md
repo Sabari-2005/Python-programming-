@@ -33,4 +33,4 @@ print("Swapped values are:",x,y)
 ![image](https://github.com/Sabari-2005/Python-programming-/assets/139338709/712d2a06-1875-4525-ac22-c48434940af9)
 
 ## Result:
-The output for circulate the values of n variables is successfull.
+Thus the swapping of two values are successfully executed
